@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,900;1,100;1,900&family=Roboto:ital,wght@0,100;0,400;0,700;1,300;1,400&display=swap');
+
+@font-face {
+    font-family: Montserrat;
+    src: url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,900;1,100;1,900&family=Roboto:ital,wght@0,100;0,400;0,700;1,300;1,400&display=swap");
+}
+body {
+    font-family: "montserrat"; font-size: 125%;}
+div.topname {
+    background-color: #05123b;
+    text-align: center;
+    font-family: Montserrat;
+color: #f0f4f8;}
+div.quote1 {border-color: #DA4A91 ;border-left-style: solid; border-width: 5px; width: 15%;}
+div.quote2 {border-color: #DA4A91; border-right-style: solid; border-width: 5px; width: 15%; padding-left: 25px;}
+div.bottomname {text-align: center; border-bottom-style: solid; border-color: #f0f4f8; border-width: 100px; width: 100%;}
+
+h1.name {color: #f0f4f8;}
+
+h2 {
+    font-weight: bolder;
+    font-size: 60px;}
+
+
+img {
+    max-width: 250px;}
+div.image {
+    max-width: 250px;
+    border: 15px solid #9FB3C8;}
+
+
+
+p
+.orange-text {
+    background-color: #f7d070;}
+.red-text{
+    background-color: #a61b1b;
+}
+
+th, td {
+    max-width: 600px;
+    padding: 5px;
+    text-align: left;
+    border-bottom: 1px solid #9FB3C8;
+  }
+  th {background-color: #9FB3C8;}
+  td {background-color: #f0f4f8;}
